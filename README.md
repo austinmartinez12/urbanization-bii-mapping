@@ -29,3 +29,4 @@ How to access the data:
 ### References:
 - 1. U.S. Census Bureau. (2024, October 30). Cartographic boundary files – Shapefile. https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html [Accessed Dec. 05, 2025]
 - 2. Impact Observatory, Vizzuality, & Microsoft. (2025). Biodiversity Intactness: 100m gridded maps for 2017–2020 [Data set]. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/api/stac/v1/collections/io-biodiversity [Accessed Dec. 05, 2025]
+- 3. University of California, Santa Barbara. (2025). EDS 220: Working with Environmental Datasets – Final project instructions. Bren School of Environmental Science & Management. https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/final-project.html
